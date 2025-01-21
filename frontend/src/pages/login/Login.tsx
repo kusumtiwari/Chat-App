@@ -1,7 +1,6 @@
 import React from 'react';
 import { Form, Input, Button, Typography } from 'antd';
 import { Link } from 'react-router-dom';
-import chat from '../../assets/chat.svg';
 import Account from '../../components/common/Account';
 const { Title, Text } = Typography;
 
